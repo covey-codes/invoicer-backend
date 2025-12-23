@@ -12,5 +12,8 @@ logs/
 dist/
 build/
 
-# OS or editor files
+
+
+# macOS junk files
 .DS_Store
+
